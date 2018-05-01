@@ -5,3 +5,7 @@ We build a classification model that estimates an applicant’s probability of a
 * **ex2data2.txt**   
 Initial two columns indicate test results for some microchips on two different tests. The final column represents whether the chip was accepted or not.  
 We build a model that determines whether the microchip should be accepted or rejected based on the test scores
+
+* **Handwritten_data.npz**   
+This is a subset of 5000 examples of handwritten digits taken from the MNIST Dataset.   
+They have been resized to 20 x 20 pixels
