@@ -8,4 +8,4 @@ We build a model that determines whether the microchip should be accepted or rej
 
 * **Handwritten_data.npz**   
 This is a subset of 5000 examples of handwritten digits taken from the MNIST Dataset.   
-They have been resized to 20 x 20 pixels
+They have been resized to 20 x 20 pixels. Classification is done using One vs All Logistic Regression
