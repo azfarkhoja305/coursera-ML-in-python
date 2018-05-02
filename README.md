@@ -19,7 +19,7 @@ Digit recognition using the entire MNIST Dataset is one such example for now
   * [Handwritten Digit Recognition using one-vs-all Logistic Regression](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Logistic%20Regression/Handwritten%20Digit%20Recognition%20using%20one-vs-all%20Logistic%20Regression.ipynb)
 * [Handwritten Digit Recognition using Neural Networks](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Neural%20Networks/Handwritten%20Digit%20Recognition%20using%20Neural%20Networks.ipynb)
 * [MNIST Digit Recognition using Neural Networks](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/MNIST/MNIST_Digit_Recognition_using_Neural_Networks.ipynb) 
-
+* [Bias vs Variance](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Bias%20Vs%20Variance/Bias%20vs%20Variance%20for%20Regularized%20Regression.ipynb)
 
 ## To Do
 * K-means Clustering
