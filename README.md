@@ -5,7 +5,7 @@ libraries implemented in Jupyter Notebooks.
 This repository contains:    
 * Python implementation of certain assignments I completed as part of the Machine Learning course by Andrew Ng on Coursera. The assignments were originally implemented in Octave.
 * Self implemented pet projects   
-Digit recognition using the entire MNIST Dataset is one such example for now
+Handwritten Digit recognition using the entire MNIST Dataset is one such example for now
 
 ## Contents 
 
