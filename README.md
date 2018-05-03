@@ -8,7 +8,7 @@ This repository contains:
 Digit recognition using the entire MNIST Dataset is one such example for now
 
 ## Contents 
-#### (For details regarding datasets access READMEs in the respective subfolders)
+
 * Linear Regression  
   * [Univariate Linear Regression](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Linear%20Regression/Univariate%20Linear%20Regression.ipynb)
   * [Multivariate Linear Regression](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Linear%20Regression/Multivariate%20Linear%20Regression.ipynb)
