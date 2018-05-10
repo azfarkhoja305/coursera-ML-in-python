@@ -22,8 +22,9 @@ Handwritten Digit recognition using the entire MNIST Dataset is one such example
 * [Bias vs Variance](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Bias%20Vs%20Variance/Bias%20vs%20Variance%20for%20Regularized%20Regression.ipynb)
 * [K-means Clustering](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/K-means/K-means.ipynb)
 * [Principal Component Analysis](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/PCA/Principal%20Component%20Analysis%20%28PCA%29.ipynb)
+* [Anomaly Detection](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Anomaly%20Detection/Anomaly%20Detection.ipynb)
 ## To Do
 * ~~K-means Clustering~~
 * ~~Principal Component Analysis~~
-* Anomaly Detector
+* ~~Anomaly Detection~~
 * Recommender Systems
