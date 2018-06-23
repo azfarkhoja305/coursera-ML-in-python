@@ -1,4 +1,4 @@
-# gen-purpose-ML
+# coursera-ML-in-python
 General Purpose Machine Learning Algorithms and Applications in Python developed using numpy, scipy and matplotlib 
 libraries implemented in Jupyter Notebooks.
 
