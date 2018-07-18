@@ -4,8 +4,6 @@ libraries implemented in Jupyter Notebooks.
 
 This repository contains:    
 * Python implementation of certain assignments I completed as part of the Machine Learning course by Andrew Ng on Coursera. The assignments were originally implemented in Octave.
-* Self implemented pet projects   
-Handwritten Digit recognition using the entire MNIST Dataset is one such example for now
 
 ## Contents 
 
@@ -18,7 +16,6 @@ Handwritten Digit recognition using the entire MNIST Dataset is one such example
   * [Logistic Regression using Polynomial Features with Regularization](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Logistic%20Regression/Logistic%20Regression%20using%20Polynomial%20Features%20with%20Regularization.ipynb)
   * [Handwritten Digit Recognition using one-vs-all Logistic Regression](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Logistic%20Regression/Handwritten%20Digit%20Recognition%20using%20one-vs-all%20Logistic%20Regression.ipynb)
 * [Handwritten Digit Recognition using Neural Networks](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Neural%20Networks/Handwritten%20Digit%20Recognition%20using%20Neural%20Networks.ipynb)
-* [MNIST Digit Recognition using Neural Networks](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/MNIST/MNIST_Digit_Recognition_using_Neural_Networks.ipynb) 
 * [Bias vs Variance](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/Bias%20Vs%20Variance/Bias%20vs%20Variance%20for%20Regularized%20Regression.ipynb)
 * [K-means Clustering](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/K-means/K-means.ipynb)
 * [Principal Component Analysis](https://nbviewer.jupyter.org/github/azfarkhoja305/gen-purpose-ML/blob/master/PCA/Principal%20Component%20Analysis%20%28PCA%29.ipynb)
@@ -27,4 +24,4 @@ Handwritten Digit recognition using the entire MNIST Dataset is one such example
 * ~~K-means Clustering~~
 * ~~Principal Component Analysis~~
 * ~~Anomaly Detection~~
-* Recommender Systems
+
